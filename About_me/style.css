@@ -1,0 +1,449 @@
+#img
+{
+  height: 200px;
+  width: 200px;
+  margin:50px 0px 0px 100px;
+  width: 20%;
+  float: right;
+}
+		img{
+			width: 200px;
+			height: 200px;
+			border-radius: 100%;
+         
+       		}
+
+     	#main
+
+      {   
+      	float: right;
+      	width: 70%;
+      	height: 100px;
+      }
+      #main h2
+      {
+      	padding: 20px;
+      	margin:45px 0px 0px 0px;
+      	 font-size: 22px;
+	        text-shadow: 2px 2px 2px #727272;
+      }
+	
+		#paragraph
+		{  
+
+			padding: 15px;
+			font-size: 1.2em;
+		
+			}
+			#content
+			{
+  				  height: 1800px;
+   				margin-left: 50px;
+  				float: left;
+ 				width: 90%;
+ 				 background-color: #fcfcfc;
+ 				 font-size: 1.2em;
+
+			}
+
+	    #content h2
+         {
+           
+              font-size: 22px;
+	        text-shadow: 2px 2px 2px #727272;
+             }
+
+			#footer
+			{
+		     background :url('../10.jpg') ;
+				width: 100%;
+				height: 550px;
+				margin-top: 1600px;
+                  
+			}
+			a{
+				padding: 30px;
+			}
+			.click
+			{
+			  float: right;
+			  margin:280px 460px 0px 0px;
+			  padding-left: 20px;
+
+			}
+			.click a:hover 
+			{
+                   color: green;
+                   transition: all 0.8s;
+			    	text-decoration: underline;
+			}
+			.click i
+			{
+				font-size: 2em;
+			}
+@media only screen and (max-width: 1150px)
+{
+	#img
+{
+  height: 200px;
+  width: 200px;
+  margin:50px 0px 0px 80px;
+  width: 20%;
+  float: right;
+}
+		img{
+			width: 200px;
+			height: 200px;         
+       		}
+
+     	#main
+
+      {   
+      	float: right;
+      	width: 65%;
+      	height: 10px;
+      }
+      #main h2
+      {
+      	padding: 5px;
+      	margin:5px 0px 0px 0px;
+      	 font-size: 18px;
+      }
+	
+		#paragraph
+		{  
+
+			padding: 18px;
+			font-size: 1.2em;
+		width: 92%;
+			}
+			#content
+			{
+  				  height: 1800px;
+ 				 font-size: 1.1em;
+
+			}
+
+	    #content h2
+         {
+           
+              font-size: 16px;
+             }
+
+			#footer
+			{
+		     background :url('../10.jpg') ;
+				width: 100%;
+				height: 350px;
+				margin-top: 1780px;
+                  
+			}
+			a{
+				padding: 15px;
+			}
+			.click
+			{
+			  float: right;
+			  margin:280px 370px 0px 0px;
+			  padding-left: 25px;
+
+		}
+		.click i
+		{
+			font-size: 1.2em;
+		}
+
+}
+@media only screen and (max-width: 1024px)
+{
+	#img
+{
+  height: 180px;
+  width: 180px;
+  margin:50px 0px 0px 80px;
+  width: 20%;
+  float: right;
+}
+		img{
+			width: 180px;
+			height: 180px;         
+       		}
+
+     	#main
+
+      {   
+      	float: right;
+      	width: 65%;
+      	height: 10px;
+      }
+      #main h2
+      {
+      	padding: 5px;
+      	margin:5px 0px 0px 0px;
+      	 font-size: 18px;
+      }
+	
+		#paragraph
+		{  
+
+			padding: 18px;
+			font-size: 1.2em;
+		width: 80%;
+			}
+			#content
+			{
+  				  height: 1800px;
+ 				 font-size: 1.1em;
+
+			}
+
+	    #content h2
+         {
+           
+              font-size: 16px;
+             }
+
+			#footer
+			{
+		     background :url('../10.jpg') ;
+				width: 100%;
+				height: 400px;
+				margin-top: 1780px;
+                  
+			}
+			a{
+				padding: 15px;
+			}
+			.click
+			{
+			  float: right;
+			  margin:320px 350px 0px 0px;
+			  padding-left: 25px;
+
+		}
+		.click i
+		{
+			font-size: 1.2em;
+		}
+
+}
+@media only screen and (max-width: 900px)
+{
+	#img
+{
+  height: 160px;
+  width: 160px;
+  margin:50px 0px 0px 80px;
+  width: 20%;
+  float: right;
+}
+		img{
+			width: 160px;
+			height: 160px;         
+       		}
+
+     	#main
+
+      {   
+      	float: right;
+      	width: 65%;
+      	height: 10px;
+      }
+      #main h2
+      {
+      	padding: 5px;
+      	margin:5px 0px 0px 0px;
+      	 font-size: 18px;
+      }
+	
+		#paragraph
+		{  
+
+			padding: 18px;
+			font-size: 1.2em;
+		width: 80%;
+			}
+			#content
+			{
+  				  height: 2000px;
+ 				 font-size: 1.1em;
+
+			}
+
+	    #content h2
+         {
+           
+              font-size: 16px;
+             }
+
+			#footer
+			{
+		     background :url('../10.jpg') ;
+				width: 100%;
+				height: 400px;
+				margin-top: 2000px;
+                  
+			}
+			a{
+				padding: 15px;
+			}
+			.click
+			{
+			  float: right;
+			  margin:350px 300px 0px 0px;
+			  padding-left: 25px;
+
+		}
+		.click i
+		{
+			font-size: 1.2em;
+		}
+	}
+
+@media only screen and (max-width: 800px)
+{
+	#img
+{
+  height: 150px;
+  width: 150px;
+  margin:50px 0px 0px 80px;
+  width: 20%;
+  float: right;
+}
+		img{
+			width: 150px;
+			height: 150px;         
+       		}
+
+     	#main
+
+      {   
+      	float: right;
+      	width: 65%;
+      	height: 10px;
+      }
+      #main h2
+      {
+      	padding: 5px;
+      	margin:5px 0px 0px 0px;
+      	 font-size: 18px;
+      }
+	
+		#paragraph
+		{  
+
+			padding: 18px;
+			font-size: 1.2em;
+		width: 80%;
+			}
+			#content
+			{
+  				  height: 1800px;
+ 				 font-size: 1.1em;
+
+			}
+
+	    #content h2
+         {
+           
+              font-size: 16px;
+             }
+
+			#footer
+			{
+		     background :url('../10.jpg') ;
+				width: 100%;
+				height: 500px;
+				margin-top: 2300px;
+                  
+			}
+			a{
+				padding: 15px;
+			}
+			.click
+			{
+			  float: right;
+			  margin:350px 300px 0px 0px;
+			  padding-left: 25px;
+
+		}
+		.click i
+		{
+			font-size: 1.2em;
+		}
+
+}
+@media only screen and (max-width: 600px)
+{
+	#img
+{
+  height: 80px;
+  width: 80px;
+  margin:40px 0px 0px 100px;
+  width: 20%;
+  float: right;
+}
+		img{
+			width: 80px;
+			height: 80px;
+	       		}
+
+     	#main
+
+      {   
+      	float: right;
+      	width: 50%;
+      	height: 10px;
+      }
+      #main h2
+      {
+      	padding: 2px;
+      	margin:1px 0px 0px 0px;
+      	 font-size: 16px;
+      }
+	
+		#paragraph
+		{  
+
+			padding: 5px;
+			font-size: 16px;
+			width: 80%;
+		
+			}
+			#content
+			{
+  				  height: 1800px;
+ 				 font-size: 1em;
+
+			}
+
+	    #content h2
+         {
+           
+              font-size: 16px;
+             }
+
+			#footer
+			{
+		     background :url('../10.jpg') ;
+				width: 100%;
+				height: 220px;
+				margin-top: 4250px;
+                  
+			}
+			a{
+				padding: 10px;
+			}
+			.click
+			{
+			  float: right;
+			  margin:180px 60px 0px 0px;
+			  padding-left: 10px;
+
+			}
+			.click i
+			{
+				font-size: 1em;
+			}
+}			
+			
