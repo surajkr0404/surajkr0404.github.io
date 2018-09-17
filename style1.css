@@ -93,12 +93,12 @@ body
 	#header h1
 	{
        text-align: center;
-       font-size: 30px;
+       font-size: 26px;
 	}
 	#header h2
 	{
        text-align: center;
-       font-size: 20px;
+       font-size: 18px;
 	}
   #menu
   {
@@ -109,7 +109,7 @@ body
   }
   #menu a
   {
-  	font-size: 16px;
+  	font-size: 14px;
   	padding: 15px;
 
   }
