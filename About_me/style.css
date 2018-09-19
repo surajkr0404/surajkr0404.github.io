@@ -1,8 +1,21 @@
+#main
+      {   
+      	float: left;
+      	width: 78%;
+      	height: 60px;
+      }
+      #main h2
+      {
+      	padding: 10px;
+      	margin:20px 15px 0px 10px;
+      	font-size: 22px;
+	    text-shadow: 2px 2px 2px #727272;
+      }
 #img
 {
   height: 200px;
-  width: 200px;
-  margin:50px 0px 0px 100px;
+  width: 250px;
+  margin:0px 15px 0px 80px;
   width: 20%;
   float: right;
 }
@@ -12,31 +25,17 @@
 			border-radius: 100%;
          
        		}
-
-    #main
-      {   
-      	float: right;
-      	width: 70%;
-      	height: 100px;
-      }
-      #main h2
-      {
-      	padding: 1px;
-      	margin:62px 0px 0px 0px;
-      	font-size: 22px;
-	    text-shadow: 2px 2px 2px #727272;
-      }
-	
 		#paragraph
 		{  
 
-			padding: 27px;
-			font-size: 1.2em;	
+			padding: 20px;
+			font-size: 1.2em;
+			width: 75%;
 			}
 
 			#content
 			{
-  				  height: 900px;
+  				  height: 950px;
   				float: left;
  				width: 90%;
  				 background-color: #fcfcfc;
@@ -59,7 +58,7 @@
 		     background :url('../10.jpg') ;
 				width: 100%;
 				height: 400px;
-				margin-top: 850px;
+				margin-top: 950px;
                   
 			}
 			a{
@@ -84,51 +83,49 @@
 			}
 @media only screen and (max-width: 1150px)
 {
-	#img
-{
-  height: 200px;
-  width: 200px;
-  margin:50px 0px 0px 80px;
-  width: 20%;
-  float: right;
-}
-		img{
-			width: 200px;
-			height: 200px;         
-       		}
-
-     	#main
+	#main
 
       {   
-      	float: right;
-      	width: 65%;
-      	height: 10px;
+      	float:left;
+      	width: 73%;
+      	height: 50px;
       }
       #main h2
       {
       	padding: 5px;
-      	margin:5px 0px 0px 0px;
-      	 font-size: 18px;
-      }
-	
+      	margin:20px 0px 0px 15px;
+      	 font-size: 20px;
+      }	
+	#img
+{
+  height: 200px;
+  width: 200px;
+  margin:0px 0px 0px 80px;
+  width: 20%;
+  float: right;
+}
+		img{
+			width: 180px;
+			height: 180px;         
+       		}	
 		#paragraph
 		{  
 
 			padding: 18px;
 			font-size: 1.2em;
-		width: 92%;
+		   width: 75%;
 			}
 			#content
 			{
-  				  height: 900px;
- 				 font-size: 1.1em;
+  				  height: 980px;
+ 				 font-size: 1.15em;
 
 			}
 
 	    #content h2
          {
             margin-left: 15px;
-              font-size: 16px;
+              font-size: 20px;
              }
     #content p
     {
@@ -139,7 +136,7 @@
 		     background :url('../10.jpg') ;
 				width: 100%;
 				height: 350px;
-				margin-top: 800px;
+				margin-top: 950px;
                   
 			}
 			a{
@@ -160,52 +157,50 @@
 }
 @media only screen and (max-width: 1024px)
 {
-	#img
-{
-  height: 180px;
-  width: 180px;
-  margin:50px 0px 0px 80px;
-  width: 20%;
-  float: right;
-}
-		img{
-			width: 180px;
-			height: 180px;         
-       		}
-
-     	#main
+	#main
 
       {   
-      	float: right;
-      	width: 65%;
-      	height: 10px;
+      	float: left;
+      	width: 72%;
+      	height: 40px;
       }
       #main h2
       {
       	padding: 5px;
-      	margin:5px 0px 0px 0px;
-      	 font-size: 18px;
+      	margin:10px 0px 0px 12px;
+      	 font-size: 19px;
       }
-	
+	#img
+{
+  height: 170px;
+  width: 170px;
+  margin:0px 0px 0px 80px;
+  width: 20%;
+  float: right;
+}
+		img{
+			width: 170px;
+			height: 170px;         
+       		}	
 		#paragraph
 		{  
 
-			padding: 18px;
-			font-size: 1.2em;
+			padding: 16px;
+			font-size: 1.1em;
 		width: 80%;
 			}
 			#content
 			{
 				width: 100%;
-  				  height: 800px;
- 				 font-size: 1.1em;
+  				  height: 890px;
+ 				 font-size: 1.12em;
 
 			}
 
 	    #content h2
          { 
            margin-left: 12px;
-              font-size: 16px;
+              font-size: 19px;
              }
          #content p
         {
@@ -217,7 +212,7 @@
 		     background :url('../10.jpg') ;
 				width: 100%;
 				height: 400px;
-				margin-top: 800px;
+				margin-top: 890px;
                   
 			}
 			a{
@@ -238,44 +233,43 @@
 }
 @media only screen and (max-width: 900px)
 {
+
+     	#main
+
+      {   
+      	float: left;
+      	width: 74%;
+      	height: 25px;
+      }
+      #main h2
+      {
+      	padding: 10px;
+      	margin:2px 0px 0px 8px;
+      	 font-size: 18px;
+      }
 	#img
 {
-  height: 160px;
-  width: 160px;
-  margin:50px 0px 0px 80px;
+  height: 140px;
+  width: 140px;
+  margin:0px 0px 0px 80px;
   width: 20%;
   float: right;
 }
 		img{
 			width: 160px;
 			height: 160px;         
-       		}
-
-     	#main
-
-      {   
-      	float: right;
-      	width: 65%;
-      	height: 10px;
-      }
-      #main h2
-      {
-      	padding: 5px;
-      	margin:5px 0px 0px 0px;
-      	 font-size: 18px;
-      }
-	
+       		}	
 		#paragraph
 		{  
 
 			padding: 18px;
-			font-size: 1.2em;
-		width: 80%;
+			font-size: 1.09em;
+		    width: 80%;
 			}
 			#content
 			{
-  				  height: 850px;
- 				 font-size: 1.1em;
+  				  height: 900px;
+ 				 font-size: 1.12em;
  				 width: 100%;
 
 			}
@@ -283,7 +277,7 @@
 	    #content h2
          {
            margin-left: 10px;
-              font-size: 16px;
+              font-size: 18px;
              }
     #content p
     {
@@ -294,7 +288,7 @@
 		     background :url('../10.jpg') ;
 				width: 100%;
 				height: 400px;
-				margin-top: 850px;
+				margin-top: 900px;
                   
 			}
 			a{
@@ -315,11 +309,24 @@
 
 @media only screen and (max-width: 800px)
 {
+		#main
+
+      {   
+      	float: left;
+      	width: 74%;
+      	height: 15px;
+      }
+      #main h2
+      {
+      	padding: 5px;
+      	margin:2px 0px 0px 12px;
+      	 font-size: 18px;
+      }
 	#img
 {
   height: 150px;
   width: 150px;
-  margin:50px 0px 0px 80px;
+  margin:5px 0px 0px 80px;
   width: 20%;
   float: right;
 }
@@ -327,27 +334,12 @@
 			width: 150px;
 			height: 150px;         
        		}
-
-     	#main
-
-      {   
-      	float: right;
-      	width: 65%;
-      	height: 10px;
-      }
-      #main h2
-      {
-      	padding: 5px;
-      	margin:5px 0px 0px 0px;
-      	 font-size: 18px;
-      }
-	
 		#paragraph
 		{  
 
 			padding: 18px;
-			font-size: 1em;
-		width: 80%;
+			font-size: 1.06em;
+		  width: 80%;
 			}
 			#content
 			{  width: 100%;
@@ -359,7 +351,7 @@
 	    #content h2
          {
            margin-left: 10px;
-              font-size: 16px;
+              font-size: 18px;
              }
 #content p
     {
@@ -391,54 +383,50 @@
 }
 @media only screen and (max-width: 700px)
 {
-#img
-{
-  height: 90px;
-  width: 90px;
-  margin:20px 5px 0px 100px;
-  width: 20%;
-  float: right;
-}
-		img{
-			width: 85px;
-			height: 85px;
-	       		}
-
-     	#main
+		#main
       {   
-      	float: right;
-      	width: 58%;
-      	height: 10px;
+      	float: left;
+      	width: 74%;
+      	height: 12px;
       }
       #main h2
       {
       	padding: 1px;
-      	margin:1px 0px 0px 0px;
-      	 font-size: 16px;
+      	margin:0px 0px 0px 8px;
+      	 font-size: 17spx;
       }
-	
+#img
+{
+  height: 110px;
+  width: 110px;
+  margin:8px 5px 0px 100px;
+  width: 20%;
+  float: right;
+}
+		img{
+			width: 110px;
+			height: 110px;
+	       		}	
 		#paragraph
 		{  
              
-			padding: 5px;
-			font-size: 14px;
-			width: 100%;
+			padding: 8px;
+			font-size: 16px;
+			width: 88%;
 		
 			}
 			#content
 			{ 
 				width: 100%;
-  				  height: 1020px;
+  				  height: 1190px;
   				  float: left;
- 				 font-size: 1em;
-               padding: 0px;
-               margin: 0px;
+ 				 font-size: 1.02em;
 			}
 
 	    #content h2
          {
             margin-left: 5px;
-              font-size: 16px;
+              font-size: 17px;
              }
              #content p
     {
@@ -450,7 +438,7 @@
 		     background :url('../10.jpg') ;
 				width: 100%;
 				height: 210px;
-				margin-top: 1020px;
+				margin-top: 1190px;
                   
 			}
 			a{
@@ -470,44 +458,43 @@
 }	
 @media only screen and (max-width: 620px)
 {
-#img
-{
-  height: 90px;
-  width: 90px;
-  margin:8px 20px 0px 100px;
-  width: 20%;
-  float: right;
-}
-		img{
-			width: 95px;
-			height: 95px;
-	       		}
-
-     	#main
+		#main
       {   
-      	float: right;
-      	width: 55%;
-      	height: 10px;
+      	float: left;
+      	width: 74%;
+      	height: 6px;
       }
       #main h2
       {
       	padding: 1px;
-      	margin:1px 0px 0px 0px;
+      	margin:0px 0px 0px 8px;
       	 font-size: 16px;
       }
 	
-		#paragraph
+#img
+{
+  height: 100px;
+  width: 100px;
+  margin: 10px 0px 90px;
+  width: 20%;
+  float: right;
+}
+		img{
+			width: 100px;
+			height: 100px;
+	       		}
+	#paragraph
 		{  
              
-			padding: 5px;
-			font-size: 14px;
-			width: 100%;
+			padding: 7px;
+			font-size: 15px;
+			width: 88%;
 		
 			}
 			#content
 			{ 
 				width: 100%;
-  				  height: 1220px;
+  				  height: 1170px;
   				  float: left;
  				 font-size: 1em;
                padding: 0px;
@@ -529,7 +516,7 @@
 		     background :url('../10.jpg') ;
 				width: 100%;
 				height: 250px;
-				margin-top: 1220px;
+				margin-top: 1170px;
                   
 			}
 			a{
@@ -553,44 +540,42 @@
 }
 @media only screen and (max-width: 550px)
 {
+		#main
+      {   
+      	float: left;
+      	width: 74%;
+      	height: 5px;
+      }
+      #main h2
+      {
+      	padding: 0px;
+      	margin:0px 0px 0px 6px;
+      	 font-size: 16px;
+      }
 #img
 {
-  height: 90px;
-  width: 90px;
-  margin:8px 20px 0px 100px;
+  height: 100px;
+  width: 100px;
+  margin:8px 0px 0px 100px;
   width: 20%;
   float: right;
 }
 		img{
-			width: 95px;
-			height: 95px;
+			width: 100px;
+			height: 100px;
 	       		}
-
-     	#main
-      {   
-      	float: right;
-      	width: 53%;
-      	height: 10px;
-      }
-      #main h2
-      {
-      	padding: 1px;
-      	margin:1px 0px 0px 0px;
-      	 font-size: 16px;
-      }
-	
-		#paragraph
+	#paragraph
 		{  
              
 			padding: 5px;
 			font-size: 14px;
-			width: 100%;
+			width: 88%;
 		
 			}
 			#content
 			{ 
 				width: 100%;
-  				  height: 1280px;
+  				  height: 1300px;
   				  float: left;
  				 font-size: 0.98em;
                padding: 0px;
@@ -612,7 +597,7 @@
 		     background :url('../10.jpg') ;
 				width: 100%;
 				height: 220px;
-				margin-top: 1280px;
+				margin-top: 1300px;
                   
 			}
 			a{
@@ -636,43 +621,41 @@
 }
 @media only screen and (max-width: 500px)
 {
+		#main
+      {   
+      	float: left;
+      	width: 74%;
+      	height: 4px;
+      }
+      #main h2
+      {
+      
+      	margin:0px 0px 0px 6px;
+      	 font-size: 16px;
+      }
 #img
 {
-  height: 80px;
-  width: 80px;
-  margin:10px 15px 0px 100px;
+  height: 90px;
+  width: 90px;
+  margin:8px 0px 0px 100px;
   width: 20%;
   float: right;
 }
 		img{
-			width: 94px;
-			height: 94px;
+			width: 90px;
+			height: 90px;
 	       		}
-
-     	#main
-      {   
-      	float: right;
-      	width: 52%;
-      	height: 10px;
-      }
-      #main h2
-      {
-      	padding: 1px;
-      	margin:1px 0px 0px 0px;
-      	 font-size: 16px;
-      }
-	
-		#paragraph
+	       		#paragraph
 		{  
 			padding: 5px;
 			font-size: 14px;
-			width: 100%;
+			width: 88%;
 		
 			}
 			#content
 			{ 
 				width: 100%;
-  				  height: 1290px;
+  				  height: 1300px;
   				  float: left;
  				 font-size: 0.97em;
                padding: 0px;
@@ -694,7 +677,7 @@
 		     background :url('../10.jpg') ;
 				width: 100%;
 				height: 220px;
-				margin-top: 1290px;
+				margin-top: 1300px;
                   
 			}
 			a{
@@ -718,44 +701,42 @@
 }
 @media only screen and (max-width: 470px)
 {
+	#main
+      {   
+      	float: left;
+      	width: 74%;
+      	height: 4px;
+      }
+      #main h2
+      {
+      	margin:0px 0px 0px 4px;
+      	 font-size: 16px;
+      }
 #img
 {
   height: 90px;
   width: 90px;
-  margin:20px 5px 0px 100px;
+  margin:0spx 20px 0px 80px;
   width: 20%;
   float: right;
 }
 		img{
-			width: 85px;
-			height: 85px;
+			width: 95px;
+			height: 95px;
 	       		}
-
-     	#main
-      {   
-      	float: right;
-      	width: 46%;
-      	height: 10px;
-      }
-      #main h2
-      {
-      	padding: 1px;
-      	margin:1px 0px 0px 0px;
-      	 font-size: 16px;
-      }
 	
 		#paragraph
 		{  
              
 			padding: 5px;
-			font-size: 13px;
-			width: 100%;
+			font-size: 14px;
+			width: 88%;
 		
 			}
 			#content
 			{ 
 				width: 100%;
-  				  height: 1510px;
+  				  height: 1500px;
   				  float: left;
  				 font-size: 0.96em;
                padding: 0px;
@@ -777,7 +758,7 @@
 		     background :url('../10.jpg') ;
 				width: 100%;
 				height: 210px;
-				margin-top: 1510px;
+				margin-top: 1500px;
                   
 			}
 			a{
@@ -801,44 +782,39 @@
 }		
 @media only screen and (max-width: 435px)
 {
+	#main
+      {   
+      	float: left;
+      	width: 74%;
+      }
+      #main h2
+      {
+      	 font-size: 16px;
+      }
 #img
 {
   height: 90px;
   width: 90px;
-  margin:20px 5px 0px 100px;
+  margin:4px 20px 0px 100px;
   width: 20%;
   float: right;
 }
 		img{
-			width: 85px;
-			height: 85px;
+			width: 90px;
+			height: 90px;
 	       		}
-
-     	#main
-      {   
-      	float: right;
-      	width: 46%;
-      	height: 10px;
-      }
-      #main h2
-      {
-      	padding: 1px;
-      	margin:1px 0px 0px 0px;
-      	 font-size: 16px;
-      }
-	
 		#paragraph
 		{  
              
-			padding: 5px;
-			font-size: 13px;
-			width: 100%;
+			padding: 2px;
+			font-size: 14px;
+			width: 88%;
 		
 			}
 			#content
 			{ 
 				width: 100%;
-  				  height: 1590px;
+  				  height: 1500px;
   				  float: left;
  				 font-size: 0.96em;
                padding: 0px;
@@ -860,7 +836,7 @@
 		     background :url('../10.jpg') ;
 				width: 100%;
 				height: 210px;
-				margin-top: 1590px;
+				margin-top: 1500px;
                   
 			}
 			a{
@@ -884,11 +860,20 @@
 }		
 @media only screen and (max-width: 390px)
 {
+		#main
+      {   
+      	float: left;
+      	width:74%;
+      }
+      #main h2
+      {
+      	 font-size: 14px;
+      }
 #img
 {
   height: 90px;
   width: 90px;
-  margin:20px 15px 0px 100px;
+  margin:4px 20px 0px 80px;
   width: 20%;
   float: right;
 }
@@ -896,32 +881,18 @@
 			width: 85px;
 			height: 85px;
 	       		}
-
-     	#main
-      {   
-      	float: right;
-      	width: 45%;
-      	height: 10px;
-      }
-      #main h2
-      {
-      	padding: 1px;
-      	margin:1px 0px 0px 0px;
-      	 font-size: 16px;
-      }
-	
 		#paragraph
 		{  
              
-			padding: 5px;
-			font-size: 13px;
-			width: 100%;
+			padding: 2px;
+			font-size: 14px;
+			width: 88%;
 		
 			}
 			#content
 			{ 
 				width: 100%;
-  				  height: 1450px;
+  				  height: 1400px;
   				  float: left;
  				 font-size: 0.92em;
                padding: 0px;
@@ -943,7 +914,7 @@
 		     background :url('../10.jpg') ;
 				width: 100%;
 				height: 210px;
-				margin-top: 1450px;
+				margin-top: 1400px;
                   
 			}
 			a{

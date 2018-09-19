@@ -2,7 +2,7 @@ body
 {
 	margin: 0px;
 	padding: 0px;
-	height: 700px;
+	height: 750px;
 }
 #header
 {
@@ -12,6 +12,7 @@ body
 	background-color: #c0c0c0;
 	height:100%;
 	float: right;
+	overflow: none;
 }
 #header h1
 {  
