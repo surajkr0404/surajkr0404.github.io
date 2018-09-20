@@ -35,7 +35,7 @@
 
 			#content
 			{
-  				  height: 950px;
+  				  height: 990px;
   				float: left;
  				width: 90%;
  				 background-color: #fcfcfc;
@@ -58,7 +58,7 @@
 		     background :url('../10.jpg') ;
 				width: 100%;
 				height: 400px;
-				margin-top: 950px;
+				margin-top: 990px;
                   
 			}
 			a{
@@ -67,7 +67,7 @@
 			.click
 			{
 			  float: right;
-			  margin:280px 450px 0px 0px;
+			  margin:330px 420px 0px 0px;
 			  padding-left: 20px;
 
 			}
@@ -117,7 +117,7 @@
 			}
 			#content
 			{
-  				  height: 980px;
+  				  height: 1040px;
  				 font-size: 1.15em;
 
 			}
@@ -136,7 +136,7 @@
 		     background :url('../10.jpg') ;
 				width: 100%;
 				height: 350px;
-				margin-top: 950px;
+				margin-top: 1040px;
                   
 			}
 			a{
@@ -145,7 +145,7 @@
 			.click
 			{
 			  float: right;
-			  margin:220px 370px 0px 0px;
+			  margin:250px 370px 0px 0px;
 			  padding-left: 25px;
 
 		}
@@ -192,7 +192,7 @@
 			#content
 			{
 				width: 100%;
-  				  height: 890px;
+  				  height: 910px;
  				 font-size: 1.12em;
 
 			}
@@ -212,7 +212,7 @@
 		     background :url('../10.jpg') ;
 				width: 100%;
 				height: 400px;
-				margin-top: 890px;
+				margin-top: 910px;
                   
 			}
 			a{
@@ -221,7 +221,7 @@
 			.click
 			{
 			  float: right;
-			  margin:320px 350px 0px 0px;
+			  margin:360px 350px 0px 0px;
 			  padding-left: 25px;
 
 		}
@@ -268,7 +268,7 @@
 			}
 			#content
 			{
-  				  height: 900px;
+  				  height: 920px;
  				 font-size: 1.12em;
  				 width: 100%;
 
@@ -288,7 +288,7 @@
 		     background :url('../10.jpg') ;
 				width: 100%;
 				height: 400px;
-				margin-top: 900px;
+				margin-top: 920px;
                   
 			}
 			a{
@@ -297,7 +297,7 @@
 			.click
 			{
 			  float: right;
-			  margin:350px 300px 0px 0px;
+			  margin:380px 300px 0px 0px;
 			  padding-left: 25px;
 
 		}
@@ -343,7 +343,7 @@
 			}
 			#content
 			{  width: 100%;
-  				  height: 1120px;
+  				  height: 1160px;
  				 font-size: 1.1em;
 
 			}
@@ -362,7 +362,7 @@
 		     background :url('../10.jpg') ;
 				width: 100%;
 				height: 300px;
-				margin-top: 1120px;
+				margin-top: 1160px;
                   
 			}
 			a{
@@ -371,7 +371,7 @@
 			.click
 			{
 			  float: right;
-			  margin:250px 200px 0px 0px;
+			  margin:270px 200px 0px 0px;
 			  padding-left: 25px;
 
 		}
@@ -418,7 +418,7 @@
 			#content
 			{ 
 				width: 100%;
-  				  height: 1190px;
+  				  height: 1220px;
   				  float: left;
  				 font-size: 1.02em;
 			}
@@ -438,7 +438,7 @@
 		     background :url('../10.jpg') ;
 				width: 100%;
 				height: 210px;
-				margin-top: 1190px;
+				margin-top: 1220px;
                   
 			}
 			a{
@@ -447,7 +447,7 @@
 			.click
 			{
 			  float: right;
-			  margin:180px 180px 0px 0px;
+			  margin:220px 180px 0px 0px;
 			  padding-left: 10px;
 
 			}
@@ -494,7 +494,7 @@
 			#content
 			{ 
 				width: 100%;
-  				  height: 1170px;
+  				  height: 1225px;
   				  float: left;
  				 font-size: 1em;
                padding: 0px;
@@ -516,7 +516,7 @@
 		     background :url('../10.jpg') ;
 				width: 100%;
 				height: 250px;
-				margin-top: 1170px;
+				margin-top: 1225px;
                   
 			}
 			a{
@@ -525,7 +525,7 @@
 			.click
 			{
 			  float: right;
-			  margin:180px 140px 0px 0px;
+			  margin:200px 140px 0px 0px;
 			  padding-left: 10px;
 
 			}
@@ -606,7 +606,7 @@
 			.click
 			{
 			  float: right;
-			  margin:180px 140px 0px 0px;
+			  margin:190px 140px 0px 0px;
 			  padding-left: 10px;
 
 			}
@@ -629,7 +629,7 @@
       }
       #main h2
       {
-      
+         padding: 0px;
       	margin:0px 0px 0px 6px;
       	 font-size: 16px;
       }
@@ -655,7 +655,7 @@
 			#content
 			{ 
 				width: 100%;
-  				  height: 1300px;
+  				  height: 1320px;
   				  float: left;
  				 font-size: 0.97em;
                padding: 0px;
@@ -677,7 +677,7 @@
 		     background :url('../10.jpg') ;
 				width: 100%;
 				height: 220px;
-				margin-top: 1300px;
+				margin-top: 1320px;
                   
 			}
 			a{
@@ -709,8 +709,9 @@
       }
       #main h2
       {
+      	padding: 0px;
       	margin:0px 0px 0px 4px;
-      	 font-size: 16px;
+      	 font-size: 15px;
       }
 #img
 {
@@ -736,7 +737,7 @@
 			#content
 			{ 
 				width: 100%;
-  				  height: 1500px;
+  				  height: 1540px;
   				  float: left;
  				 font-size: 0.96em;
                padding: 0px;
@@ -758,7 +759,7 @@
 		     background :url('../10.jpg') ;
 				width: 100%;
 				height: 210px;
-				margin-top: 1500px;
+				margin-top: 1540px;
                   
 			}
 			a{
@@ -788,8 +789,9 @@
       	width: 74%;
       }
       #main h2
-      {
-      	 font-size: 16px;
+      { padding: 0px;
+      	margin-left:4px;
+      	 font-size: 14px;
       }
 #img
 {
@@ -814,7 +816,7 @@
 			#content
 			{ 
 				width: 100%;
-  				  height: 1500px;
+  				  height: 1540px;
   				  float: left;
  				 font-size: 0.96em;
                padding: 0px;
@@ -836,7 +838,7 @@
 		     background :url('../10.jpg') ;
 				width: 100%;
 				height: 210px;
-				margin-top: 1500px;
+				margin-top: 1540px;
                   
 			}
 			a{
@@ -867,6 +869,8 @@
       }
       #main h2
       {
+      	padding: 0px;
+      	margin-left: 4px;
       	 font-size: 14px;
       }
 #img
@@ -892,7 +896,7 @@
 			#content
 			{ 
 				width: 100%;
-  				  height: 1400px;
+  				  height: 1450px;
   				  float: left;
  				 font-size: 0.92em;
                padding: 0px;
@@ -914,7 +918,7 @@
 		     background :url('../10.jpg') ;
 				width: 100%;
 				height: 210px;
-				margin-top: 1400px;
+				margin-top: 1470px;
                   
 			}
 			a{
