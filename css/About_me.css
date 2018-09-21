@@ -18,6 +18,7 @@
   margin:0px 15px 0px 80px;
   width: 20%;
   float: right;
+  shape-outside:circle();
 }
 		img{
 			width: 200px;
@@ -87,7 +88,7 @@
 
       {   
       	float:left;
-      	width: 73%;
+      	width: 78%;
       	height: 50px;
       }
       #main h2
@@ -103,6 +104,7 @@
   margin:0px 0px 0px 80px;
   width: 20%;
   float: right;
+  shape-outside:circle();
 }
 		img{
 			width: 180px;
@@ -161,7 +163,7 @@
 
       {   
       	float: left;
-      	width: 72%;
+      	width: 82%;
       	height: 40px;
       }
       #main h2
@@ -177,6 +179,7 @@
   margin:0px 0px 0px 80px;
   width: 20%;
   float: right;
+  shape-outside:circle();
 }
 		img{
 			width: 170px;
@@ -329,6 +332,7 @@
   margin:5px 0px 0px 80px;
   width: 20%;
   float: right;
+  shape-outside:circle();
 }
 		img{
 			width: 150px;
@@ -475,9 +479,10 @@
 {
   height: 100px;
   width: 100px;
-  margin: 10px 0px 90px;
+  margin: 10px 0px 0px 90px;
   width: 20%;
   float: right;
+  shape-outside:circle();
 }
 		img{
 			width: 100px;
@@ -488,7 +493,7 @@
              
 			padding: 7px;
 			font-size: 15px;
-			width: 95%;
+			width: 100%;
 		
 			}
 			#content
@@ -559,6 +564,7 @@
   margin:8px 0px 0px 100px;
   width: 20%;
   float: right;
+  shape-outside:circle();
 }
 		img{
 			width: 100px;
@@ -568,8 +574,8 @@
 		{  
              
 			padding: 5px;
-			font-size: 14px;
-			width: 95%;
+			font-size: 13px;
+			width: 100%;
 		
 			}
 			#content
@@ -577,7 +583,7 @@
 				width: 100%;
   				  height: 1300px;
   				  float: left;
- 				 font-size: 0.98em;
+ 				 font-size: 0.92em;
                padding: 0px;
                margin: 0px;
 			}
@@ -640,6 +646,7 @@
   margin:8px 0px 0px 100px;
   width: 20%;
   float: right;
+  shape-outside:circle();
 }
 		img{
 			width: 90px;
@@ -648,8 +655,8 @@
 	       		#paragraph
 		{  
 			padding: 5px;
-			font-size: 14px;
-			width: 95%;
+			font-size: 12px;
+			width: 100%;
 		
 			}
 			#content
@@ -657,7 +664,7 @@
 				width: 100%;
   				  height: 1320px;
   				  float: left;
- 				 font-size: 0.97em;
+ 				 font-size: 0.86em;
                padding: 0px;
                margin: 0px;
 			}
@@ -720,17 +727,18 @@
   margin:0spx 20px 0px 80px;
   width: 20%;
   float: right;
+  shape-outside:circle();
 }
 		img{
 			width: 95px;
-			height: 95px;
+			height: 100px;
 	       		}
 	
 		#paragraph
 		{  
              
 			padding: 5px;
-			font-size: 14px;
+			font-size: 12px;
 			width: 95%;
 		
 			}
@@ -739,7 +747,7 @@
 				width: 100%;
   				  height: 1540px;
   				  float: left;
- 				 font-size: 0.96em;
+ 				 font-size: 0.86em;
                padding: 0px;
                margin: 0px;
 			}
@@ -800,6 +808,7 @@
   margin:4px 20px 0px 100px;
   width: 20%;
   float: right;
+  shape-outside:circle();
 }
 		img{
 			width: 90px;
@@ -809,8 +818,8 @@
 		{  
              
 			padding: 2px;
-			font-size: 14px;
-			width: 95%;
+			font-size: 12px;
+			width: 100%;
 		
 			}
 			#content
@@ -818,7 +827,7 @@
 				width: 100%;
   				  height: 1540px;
   				  float: left;
- 				 font-size: 0.96em;
+ 				 font-size: 0.86em;
                padding: 0px;
                margin: 0px;
 			}
@@ -875,11 +884,12 @@
       }
 #img
 {
-  height: 90px;
-  width: 90px;
-  margin:4px 20px 0px 80px;
+  height: 80px;
+  width: 75px;
+  margin:1px 20px 0px 80px;
   width: 20%;
   float: right;
+  shape-outside:circle();
 }
 		img{
 			width: 85px;
@@ -889,8 +899,8 @@
 		{  
              
 			padding: 2px;
-			font-size: 14px;
-			width: 98%;
+			font-size: 12px;
+			width: 100%;
 		
 			}
 			#content
@@ -898,7 +908,7 @@
 				width: 100%;
   				  height: 1450px;
   				  float: left;
- 				 font-size: 0.92em;
+ 				 font-size: 0.85em;
                padding: 0px;
                margin: 0px;
 			}
