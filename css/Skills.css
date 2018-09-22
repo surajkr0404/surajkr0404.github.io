@@ -1,0 +1,133 @@
+body
+{
+	margin: 0px;
+	padding: 0px;
+}
+#header
+{
+	text-align: center;
+	text-shadow: 2px 2px 2px #242424;
+}
+.content1
+{
+	height: 150px;
+	width: 150px;
+	float: left;
+	border:0px solid red;
+	margin:40px 50px 0px 190px;
+	text-align: center;
+	border-width: 10px;
+	border-radius: 50%;
+}
+.content1 h2
+{
+	margin-top: 60px;
+}
+.content2
+{
+	height: 150px;
+	width: 150px;
+	float: left;
+	border:2px solid #242424;
+	margin:40px 50px 0px 190px;
+	text-align: center;
+	border-width: 10px;
+	border-radius: 50%;
+}
+.content2 h2
+{
+	margin-top: 60px;
+}
+.content3
+{
+	height: 150px;
+	width: 150px;
+	float: left;
+	border:2px solid #727272;
+	margin:40px 50px 0px 190px;
+	text-align: center;
+	border-width: 10px;
+	border-radius: 50%;
+}
+.content3 h2
+{
+	margin-top: 60px;
+}
+.content4
+{
+	height: 150px;
+	width: 150px;
+	float: left;
+	border:2px solid #767676;
+	margin:40px 50px 0px 190px;
+	text-align: center;
+	border-width: 10px;
+	border-radius: 50%;
+}
+.content4 h2
+{
+	margin-top: 60px;
+}
+.content5
+{
+	height: 150px;
+	width: 150px;
+	float: left;
+	border:0px solid green;
+	margin:40px 50px 0px 190px;
+	text-align: center;
+	border-width: 10px;
+	border-radius: 50%;
+}
+.content5 h2
+{
+	margin-top: 60px;
+}
+.content6
+{
+	height: 150px;
+	width: 150px;
+	float: left;
+	border:2px solid pink;
+	margin:40px 50px 0px 190px;
+	text-align: center;
+	border-width: 10px;
+	border-radius: 50%;
+}
+.content6 h2
+{
+	margin-top: 60px;
+}
+
+
+#footer	{
+
+		     background :url('../10.jpg') ;
+				width: 100%;
+				height: 350px;
+				margin-top: 400px;
+		
+                  
+			}
+			a{
+				padding: 30px;
+			}
+			.click
+			{
+			  float: right;
+			  margin:240px 450px 0px 0px;
+			  padding-left: 20px;
+
+			}
+			.click i b
+			{
+				font-size: 1.6em;
+				text-decoration: underline;
+			}
+
+			.click a:hover 
+			{
+                   color: green;
+                   transition: all 0.8s;
+			    	text-decoration: underline;
+			}
