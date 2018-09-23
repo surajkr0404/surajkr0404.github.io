@@ -1,0 +1,210 @@
+body
+{
+	background-color: #242424;
+
+}
+#Road
+{
+	border-bottom: 8px dashed black;
+}
+#Running
+{
+	margin-top: 150px;
+   background:url("../walking2.png");
+   width: 159px;
+   height: 320px;
+   animation:walk 1s steps(8) infinite,
+              forward 5s linear infinite;
+}
+@keyframes walk
+{
+	0%
+	{
+		background-position: 0px;
+	}
+	100%
+	{
+		background-position: 1400px;
+	}
+}
+@keyframes forward
+{
+	0%
+	{
+		transform: translateX(-100px);
+	}
+	100%
+	{
+		transform: translateX(1200px);
+	}
+}
+footer
+{
+	margin-top: 100px;
+}
+@media only screen and (max-width: 1024px)
+{
+#Running
+{
+	margin-top: 140px;
+   width: 159px;
+   height: 320px;
+   animation:walk 1s steps(6) infinite,
+              forward 5s linear infinite;
+}
+@keyframes walk
+{
+	0%
+	{
+		background-position: 0px;
+	}
+	100%
+	{
+		background-position: 1400px;
+	}
+}
+@keyframes forward
+{
+	0%
+	{
+		transform: translateX(-50px);
+	}
+	100%
+	{
+		transform: translateX(1024px);
+	}
+}
+}
+
+@media only screen and (max-width: 750px)
+{
+#Running
+{
+	margin-top: 140px;
+   width: 159px;
+   height: 320px;
+   animation:walk 1s steps(5) infinite,
+              forward 5s linear infinite;
+}
+@keyframes walk
+{
+	0%
+	{
+		background-position: 0px;
+	}
+	100%
+	{
+		background-position: 800px;
+	}
+}
+@keyframes forward
+{
+	0%
+	{
+		transform: translateX(-40px);
+	}
+	100%
+	{
+		transform: translateX(750px);
+	}
+}
+}
+@media only screen and (max-width: 650px)
+{
+#Running
+{
+	margin-top: 130px;
+   width: 180px;
+   height: 320px;
+   animation:walk 1s steps(5) infinite,
+              forward 4s linear infinite;
+}
+@keyframes walk
+{
+	0%
+	{
+		background-position: 0px;
+	}
+	100%
+	{
+		background-position: 750px;
+	}
+}
+@keyframes forward
+{
+	0%
+	{
+		transform: translateX(-15px);
+	}
+	100%
+	{
+		transform: translateX(900px);
+	}
+}
+}
+@media only screen and (max-width: 550px)
+{
+#Running
+{
+	margin-top: 130px;
+   width: 180px;
+   height: 320px;
+   animation:walk 0.8s steps(4) infinite,
+              forward 4s linear infinite;
+}
+@keyframes walk
+{
+	0%
+	{
+		background-position: 0px;
+	}
+	100%
+	{
+		background-position: 800px;
+	}
+}
+@keyframes forward
+{
+	0%
+	{
+		transform: translateX(-8px);
+	}
+	100%
+	{
+		transform: translateX(600px);
+	}
+}
+}
+@media only screen and (max-width: 400px)
+{
+#Running
+{
+	margin-top: 120px;
+   width: 190px;
+   height: 300px;
+   animation:walk 0.8s steps(4) infinite,
+              forward 4s linear infinite;
+}
+@keyframes walk
+{
+	0%
+	{
+		background-position: 0px;
+	}
+	100%
+	{
+		background-position: 700px;
+	}
+}
+@keyframes forward
+{
+	0%
+	{
+		transform: translateX(-5px);
+	}
+	100%
+	{
+		transform: translateX(450px);
+	}
+}
+}

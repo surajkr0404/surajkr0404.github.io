@@ -1,0 +1,67 @@
+body
+{
+	padding: 0px;
+	margin: 0px;
+	animation: bgcolor infinite 10s;
+}
+h2
+{
+	font-family: comic sans ms;
+	padding: 0px;
+	margin: 0px;
+	font-size: 3em;
+	text-shadow: 2px 2px 2px #242424;
+	color: white;
+	margin-top: 250px;
+    text-align: center;
+}
+@keyframes bgcolor {
+	0%
+	{
+		background:#242424;
+	}
+	10%
+	{
+		background:#371c1c;
+	}
+	20%
+	{
+		background:#5e005e;
+	}
+	30%
+	{
+		background:#000040;
+	}
+	40%
+	{
+		background:#00ff40;
+	}
+	50%
+	{
+		background:#6f6fff;
+	}
+	50%
+	{
+		background:#6f6fff;
+	}
+	60%
+	{
+		background:pink;
+	}
+	70%
+	{
+		background:yellow;
+	}
+	80%
+	{
+		background:blue;
+	}
+	90%
+	{
+		background:purple;
+	}
+	100%
+	{
+		background:violet;
+	}
+}
