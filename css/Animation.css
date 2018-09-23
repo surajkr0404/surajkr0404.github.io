@@ -9,7 +9,7 @@ body
 }
 #Running
 {
-	margin-top: 150px;
+	margin-top: 200px;
    background:url("../walking2.png");
    width: 159px;
    height: 320px;
@@ -38,9 +38,11 @@ body
 		transform: translateX(1200px);
 	}
 }
-footer
+footer 
 {
-	margin-top: 100px;
+	margin-top: 90px;
+	text-align: center;
+
 }
 @media only screen and (max-width: 1024px)
 {
