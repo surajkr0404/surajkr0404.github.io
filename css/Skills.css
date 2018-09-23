@@ -808,7 +808,7 @@ body
 			.click
 			{
 			  float: right;
-			  margin:150px 99px 0px 0px;
+			  margin:150px 120px 0px 0px;
 			  padding-left: 10px;
 
 			}
@@ -819,7 +819,7 @@ body
 			}
             .click i 
 			{
-				font-size: 1.2em;
+				font-size: 1.1em;
 				text-decoration: underline;
 			}
 
@@ -917,12 +917,12 @@ body
 			}
 			.click i b
 			{
-				font-size: 1.1em;
+				font-size: 1em;
 				text-decoration: underline;
 			}
             .click i 
 			{
-				font-size: 1.1em;
+				font-size: 1em;
 				text-decoration: underline;
 			}
 
