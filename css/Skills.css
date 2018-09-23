@@ -803,23 +803,23 @@ body
                   
 			}
 			a{
-				padding: 10px;
+				padding: 8px;
 			}
 			.click
 			{
 			  float: right;
-			  margin:150px 120px 0px 0px;
-			  padding-left: 10px;
+			  margin:150px 140px 0px 0px;
+			  padding-left: 6px;
 
 			}
 			.click i b
 			{
-				font-size: 1.1em;
+				font-size: 1em;
 				text-decoration: underline;
 			}
             .click i 
 			{
-				font-size: 1.1em;
+				font-size: 1em;
 				text-decoration: underline;
 			}
 
@@ -906,13 +906,13 @@ body
                   
 			}
 			a{
-				padding: 10px;
+				padding: 6px;
 			}
 			.click
 			{
 			  float: right;
-			  margin:150px 80px 0px 0px;
-			  padding-left: 10px;
+			  margin:150px 100px 0px 0px;
+			  padding-left: 4px;
 
 			}
 			.click i b
