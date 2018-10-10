@@ -2,7 +2,7 @@ body
 {
 	padding: 0px;
 	margin: 0px;
-	animation: bgcolor infinite 10s;
+	animation: bgcolor infinite 15s;
 }
 h2
 {
@@ -18,50 +18,87 @@ h2
 @keyframes bgcolor {
 	0%
 	{
-		background:#242424;
+		background:#727272;
 	}
-	10%
+	5%
 	{
 		background:#371c1c;
 	}
-	20%
+	10%
 	{
 		background:#5e005e;
 	}
-	30%
+	15%
 	{
 		background:#000040;
 	}
-	40%
+	20%
 	{
 		background:#00ff40;
 	}
-	50%
+	25%
 	{
 		background:#6f6fff;
 	}
+	30%
+	{
+		background:#3fc09c;
+	}
+	35%
+	{
+		background:#888077;
+	}
+	40%
+	{
+		background:#868579;
+	}
+	45%
+	{
+		background:rgb(100,100,100);
+	}
 	50%
 	{
-		background:#6f6fff;
+		background:rgb(200,100,150);
+	}
+	55%
+	{
+		background:orange;
 	}
 	60%
 	{
-		background:pink;
+		background:#d7e01f;
+	}
+	65%
+	{
+		background:#cdc132;
 	}
 	70%
 	{
-		background:yellow;
+		background:#bf9640;
+	}
+	75%
+	{
+		background:#8b708f;
 	}
 	80%
 	{
-		background:blue;
+		background:#6a9581;
+	}
+	85%
+	{
+		background:orange;
 	}
 	90%
 	{
-		background:purple;
+		background:#6f6fff;
+	}
+	95%
+	{
+		background:#53a6ac;
 	}
 	100%
 	{
-		background:violet;
+		background:#242424;
 	}
+
 }
